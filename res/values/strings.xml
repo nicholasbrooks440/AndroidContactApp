@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Java2Midterm_Brooks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="addContact">Add Contact</string>
+    <string name="listContacts">List Contacts</string>
+    <string name="phoneHint">Phone </string>
+    <string name="nameHint">Name</string>
+    <string name="emailHint">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="title_activity_list">List</string>
+
+</resources>
